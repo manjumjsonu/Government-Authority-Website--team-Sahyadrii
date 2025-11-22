@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="Theme.MissedCall" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <item name="colorPrimary">#00695C</item>
+
+        <item name="colorPrimaryVariant">#004D40</item>
+
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+    </style>
+
+</resources>
+
